@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/ggS8Uz54DM","Best Discord Verification Bot"];
+const statusMessages = ["https://discord.gg/RqqMpf75EE","ads Discord Italia","/invite"];
 
 
 let currentIndex = 0;
